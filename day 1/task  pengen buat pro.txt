@@ -1,0 +1,8 @@
+task : pengen buat pro
+
+figma : plugin > inspect
+
+note :
+
+tag span untuk menggabungkan paragraf
+
